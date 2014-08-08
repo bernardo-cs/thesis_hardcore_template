@@ -18,6 +18,6 @@ You should know what these files are for:
 
 | File  | Description  | 
 |:------------- |:---------------:|
-| main.tex      | _Do no write text here_. Report main file, requires the needed packages and the tex files  |
+| main.tex      | _Do no write text here_. This is the report main file, where chapters and packages are imported  |
 | thesis.cls    | Latex stylesheet created by [Pedro Tomás](http://sips.inesc-id.pt/~pfzt/wordpress/?page_id=206)       |
 | main.pdf | your thesis |
