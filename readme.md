@@ -1,3 +1,4 @@
+![IST Logo](http://tecnico.ulisboa.pt/img/tecnico.png)
 # MSc Thesis template for IST students
 This stylesheet is pratically a ripoff from [Pedro Tomás](http://sips.inesc-id.pt/~pfzt/wordpress/?page_id=206) updated with the new IST logo, and a diferent folder structure. Besides it's open source and git controlled so feel free to make pull requests ;)
 
